@@ -22,7 +22,7 @@ use humhub\widgets\PoweredBy;
             <style type="text/css">
 
                 <?php $defaultBackground =  Yii::$app->view->theme->variable('background-color-main', '#fff') ?>
-                <?php $colorPrimary =  Yii::$app->view->theme->variable('primary', '#708fa0') ?>
+                <?php $colorPrimary =  Yii::$app->view->theme->variable('primary', '#189acd') ?>
 
                 .ReadMsgBody {
                     width: 100%;
