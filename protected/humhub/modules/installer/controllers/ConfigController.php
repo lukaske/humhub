@@ -485,7 +485,7 @@ class ConfigController extends Controller
             $space->visibility = Space::VISIBILITY_ALL;
             $space->created_by = $adminUser->id;
             $space->auto_add_new_members = 1;
-            $space->color = '#6fdbe8';
+            $space->color = '#46b2ec';
             $space->save();
 
             // activate all available modules for this space

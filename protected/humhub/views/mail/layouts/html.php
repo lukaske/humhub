@@ -92,15 +92,15 @@ use humhub\widgets\PoweredBy;
                 }
 
                 h1 a, h2 a, h3 a, h4 a, h5 a, h6 a {
-                    color: <?= Yii::$app->view->theme->variable('info', '#6fdbe8') ?> !important;
+                    color: <?= Yii::$app->view->theme->variable('info', '#46b2ec') ?> !important;
                 }
 
                 h1 a:active, h2 a:active, h3 a:active, h4 a:active, h5 a:active, h6 a:active {
-                    color: <?= Yii::$app->view->theme->variable('info', '#6fdbe8') ?> !important;
+                    color: <?= Yii::$app->view->theme->variable('info', '#46b2ec') ?> !important;
                 }
 
                 h1 a:visited, h2 a:visited, h3 a:visited, h4 a:visited, h5 a:visited, h6 a:visited {
-                    color: <?= Yii::$app->view->theme->variable('info', '#6fdbe8') ?> !important;
+                    color: <?= Yii::$app->view->theme->variable('info', '#46b2ec') ?> !important;
                 }
 
                 table td, table tr {

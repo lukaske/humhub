@@ -16,8 +16,8 @@
     color: #555;
 }
 .ui-imageset-show-more:hover {
-    background-color: #6fdbe8;
-    border-color: #6fdbe8;
+    background-color: #46b2ec;
+    border-color: #46b2ec;
     color: white;
     cursor: pointer;
 }
@@ -49,5 +49,5 @@
 }
 .ui-imageset-hidden-items .hidden-item:hover {
     background-color: #f7f7f7;
-    border-left: 3px solid #6fdbe8;
+    border-left: 3px solid #46b2ec;
 }

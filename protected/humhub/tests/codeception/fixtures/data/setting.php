@@ -22,7 +22,7 @@ return [
     ['name' => 'tour', 'value' => '1', 'module_id' => 'base'],
     ['name' => 'colorDefault', 'value' => '#ededed', 'module_id' => 'base'],
     ['name' => 'colorPrimary', 'value' => '#189acd', 'module_id' => 'base'],
-    ['name' => 'colorInfo', 'value' => '#6fdbe8', 'module_id' => 'base'],
+    ['name' => 'colorInfo', 'value' => '#46b2ec', 'module_id' => 'base'],
     ['name' => 'colorSuccess', 'value' => '#97d271', 'module_id' => 'base'],
     ['name' => 'colorDanger', 'value' => '#ff8989', 'module_id' => 'base'],
 ];
