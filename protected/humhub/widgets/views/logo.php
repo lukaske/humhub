@@ -7,7 +7,7 @@ use yii\helpers\Html;
 ?>
 <?php if ($place == "topMenu") : ?>
     <?php if (LogoImage::hasImage()) : ?>
-        <a class="navbar-brand hidden-xs" href="<?= Yii::$app->homeUrl; ?>">
+        <a class="navbar-brand " href="<?= Yii::$app->homeUrl; ?>">
             <img class="img-rounded" src="<?= LogoImage::getUrl(); ?>"
                  alt="<?= Yii::t('base', 'Logo of {appName}', ['appName' => Html::encode(Yii::$app->name)]) ?>"
                  id="img-logo"/>
