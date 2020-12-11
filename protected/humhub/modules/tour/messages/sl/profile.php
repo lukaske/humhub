@@ -8,7 +8,7 @@ return array (
   '<strong>Profile</strong> photo' => '',
   '<strong>Profile</strong> stream' => '',
   '<strong>User profile</strong>' => '',
-  'Click on this button to update your profile and account settings. You can also add more information to your profile.' => '',
+  'Click on this button to update your profile and account settings. You can also add more information to your profile.' => 'Če želite, lahko tukaj dodate več informacij o sebi.',
   'Each profile has its own pin board. Your posts will also appear on the dashboards of those users who are following you.' => '',
   'Just like in the space, the user profile can be personalized with various modules.<br><br>You can see which modules are available for your profile by looking them in “Modules” in the account settings menu.' => '',
   'This is your public user profile, which can be seen by any registered user.' => '',

@@ -26,5 +26,5 @@ return [
     'Create private space' => '',
     'Create public content' => '',
     'Create public space' => '',
-    'Invite users' => '',
+    'Invite users' => 'Dodaj uporabnike',
 ];

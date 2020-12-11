@@ -1,14 +1,14 @@
 <?php
 return array (
-  'Add Space' => '',
+  'Add Space' => 'Dodaj stojnico',
   'Add {n,plural,=1{space} other{spaces}}' => '',
   'Create new space' => '',
-  'My spaces' => '',
+  'My spaces' => 'Izberi stojnico',
   'No member or following spaces found.' => '',
   'No result found for the given filter.' => '',
   'No spaces found for the given query' => '',
-  'Search' => '',
-  'Search for spaces' => '',
+  'Search' => 'Išči',
+  'Search for spaces' => 'Išči po stojnicah',
   'Select {n,plural,=1{space} other{spaces}}' => '',
   'This field only allows a maximum of {n,plural,=1{# space} other{# spaces}}' => '',
   'This space is archived' => '',
