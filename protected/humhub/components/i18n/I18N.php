@@ -100,7 +100,7 @@ class I18N extends BaseI18N
         if ($languageChooser->load(Yii::$app->request->post()) && $languageChooser->save()) {
             $this->setLocale($languageChooser->language);
         } else {
-            $language = $languageChooser->getSavedLanguage();
+            $language = 'sl';
             if ($language === null) {
                 // Use browser preferred language
                 $this->setLocale(Yii::$app->request->getPreferredLanguage(array_keys($this->getAllowedLanguages())));
