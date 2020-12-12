@@ -248,7 +248,7 @@ $config = [
             'validateSsl' => true,
         ],
         // Allowed languages limitation (optional)
-        'allowedLanguages' => [],
+        'allowedLanguages' => ['sl'],
         'defaultPermissions' => [],
         'tour' => [
             'acceptableNames' => ['interface', 'administration', 'profile', 'spaces']

@@ -67,7 +67,7 @@ return [
     'Show At Registration' => '',
     'Show all content' => '',
     'Sign in' => '',
-    'Sign in / up' => '',
+    'Sign in / up' => 'Prijavi se',
     'Sign up' => '',
     'Sign up now' => '',
     'Sort order' => '',
